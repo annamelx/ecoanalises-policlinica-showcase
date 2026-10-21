@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🩺 Ecoanálises Policlínica
+#  Ecoanálises Policlínica
 
 ### Site institucional e plataforma de agendamentos — em desenvolvimento
 
