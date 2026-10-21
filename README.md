@@ -63,9 +63,15 @@ O planejamento também contempla **serviços sem profissional individual selecio
 
 ## 🖥️ Telas do projeto
 
-As capturas da **página inicial** e da **Área do Paciente**, sem dados pessoais, serão adicionadas em breve.
 
-> As imagens publicadas nesta apresentação serão utilizadas apenas com a autorização necessária e sem informações reais de pacientes.
+### 🏥 Página inicial
+![Página inicial da Ecoanálises](imagens/pagina-inicial.png)
+
+### 💙 Área do Paciente
+![Área do Paciente da Ecoanálises](imagens/area-paciente.png)
+
+> Projeto em desenvolvimento. As imagens são
+> demonstrativas e não contêm dados reais de pacientes.
 
 ## 🔐 Privacidade e segurança
 
