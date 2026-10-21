@@ -65,10 +65,10 @@ O planejamento também contempla **serviços sem profissional individual selecio
 
 
 ### 🏥 Página inicial
-![Página inicial da Ecoanálises](imagens/pagina-inicial.png)
+![Página inicial da Ecoanálises](imagens/gitkeep.pagina-inicial.png)
 
 ### 💙 Área do Paciente
-![Área do Paciente da Ecoanálises](imagens/area-paciente.png)
+![Área do Paciente da Ecoanálises](imagens/gitkeep.area-paciente.png)
 
 > Projeto em desenvolvimento. As imagens são
 > demonstrativas e não contêm dados reais de pacientes.
